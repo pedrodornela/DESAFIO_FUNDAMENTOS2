@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ProjetoC#\DESAFIO_FUNDAMENTOS2\bin\Debug\net8.0\DESAFIO_FUNDAMENTOS2.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ProjetoC#\DESAFIO_FUNDAMENTOS2\bin\Debug\net8.0\DESAFIO_FUNDAMENTOS2.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ProjetoC#\DESAFIO_FUNDAMENTOS2\bin\Debug\net8.0\DESAFIO_FUNDAMENTOS2.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ProjetoC#\DESAFIO_FUNDAMENTOS2\bin\Debug\net8.0\DESAFIO_FUNDAMENTOS2.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ProjetoC#\DESAFIO_FUNDAMENTOS2\bin\Debug\net8.0\DESAFIO_FUNDAMENTOS2.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ProjetoC#\DESAFIO_FUNDAMENTOS2\obj\Debug\net8.0\DESAFIO_FUNDAMENTOS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ProjetoC#\DESAFIO_FUNDAMENTOS2\obj\Debug\net8.0\DESAFIO_FUNDAMENTOS2.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ProjetoC#\DESAFIO_FUNDAMENTOS2\obj\Debug\net8.0\DESAFIO_FUNDAMENTOS2.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ProjetoC#\DESAFIO_FUNDAMENTOS2\obj\Debug\net8.0\DESAFIO_FUNDAMENTOS2.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ProjetoC#\DESAFIO_FUNDAMENTOS2\obj\Debug\net8.0\DESAFIO_FUNDAMENTOS2.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ProjetoC#\DESAFIO_FUNDAMENTOS2\obj\Debug\net8.0\refint\DESAFIO_FUNDAMENTOS2.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ProjetoC#\DESAFIO_FUNDAMENTOS2\obj\Debug\net8.0\DESAFIO_FUNDAMENTOS2.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ProjetoC#\DESAFIO_FUNDAMENTOS2\obj\Debug\net8.0\DESAFIO_FUNDAMENTOS2.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ProjetoC#\DESAFIO_FUNDAMENTOS2\obj\Debug\net8.0\ref\DESAFIO_FUNDAMENTOS2.dll
